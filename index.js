@@ -29,7 +29,7 @@ for (const key in obj) {
 
 /*
 
-for (const c of "harry") {
+for (const c of "ram") {
   console.log(c);
 }
 
